@@ -1,8 +1,8 @@
 {
-  "name": "@joseph184/browserify-fs",
+  "name": "@erquhart/browserify-fs",
   "version": "1.0.1",
   "description": "fs for the browser using level-filesystem and browserify",
-  "repository": "joseph184/browserify-fs",
+  "repository": "erquhart/browserify-fs",
   "keywords": [
     "browserify",
     "fs",

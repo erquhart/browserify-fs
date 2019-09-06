@@ -1,10 +1,13 @@
-# browserify-fs
+# @erquhart/browserify-fs
 
-NOTE: this is [browserify-fs](https://www.npmjs.com/package/browserify-fs) with updated dependencies to fix vulnerabilities
+**Note:**
+This is [browserify-fs](https://www.npmjs.com/package/browserify-fs) with updated dependencies to fix vulnerabilities.
+
+Security updates from commits by @joseph184.
 
 [fs](http://nodejs.org/api/fs.html) for the browser using [level-filesystem](https://github.com/mafintosh/level-filesystem), [level.js](https://github.com/maxogden/level.js) and [browserify](https://github.com/substack/node-browserify)
 
-	npm install @joseph184/browserify-fs
+	npm install @erquhart/browserify-fs
 
 ![dat](http://img.shields.io/badge/Development%20sponsored%20by-dat-green.svg?style=flat)
 
